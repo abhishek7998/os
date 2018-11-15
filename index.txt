@@ -63,7 +63,7 @@ multilevelqueue.c
 multilevelqueue2.c
 nppriority.c  
 ppriority.c
-prioritywithdiffat.cpp
+prioritywithdiffatnp.cpp
 roundrobin.c 
 sjf.c
 sjf.cpp
