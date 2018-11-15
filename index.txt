@@ -114,13 +114,13 @@ sleep1.c
 systemcalls.c
 wait.c
 wait1.c
-p1.sh
-p2.sh
-p3.sh
-p4.sh
-p5.sh
-p6.sh
+p1.sh create file count the dog in line
+p2.sh count the no of directory
+p3.sh if else marks
+p4.sh factorial
+p5.sh make file rename file delete file
+p6.sh multiplication addition on terminal
 p7.sh
-p8.sh
-p9.sh
-p10.sh
+p8.sh generate star output
+p9.sh tribonacci number
+p10.sh dos command cat remove ls
